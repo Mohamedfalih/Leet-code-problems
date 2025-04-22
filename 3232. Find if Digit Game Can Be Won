@@ -1,0 +1,17 @@
+bool canAliceWin(int* nums, int numsSize) 
+{
+    int total=0,singlesum=0,doublesum=0;
+    for(int i=0;i<numsSize;i++)
+    {
+        int num=nums[i];
+        total+=num;
+        if(num>=1 && num<=9)
+         singlesum+=num;
+         else if(num>=10 && num<=99)
+         doublesum+=num;
+    }
+    if(singlesum>doublesum || doublesum>singlesum )
+    return true;
+    else
+    return false;
+}
