@@ -1,0 +1,19 @@
+int findLucky(int* arr, int arrSize) {
+    int freq[100000]={0};
+    for(int i=0;i<arrSize;i++)
+    {
+      freq[arr[i]]++;
+    }
+    int max=0;
+    for(int i=0;i<arrSize;i++)
+    {
+        if(freq[arr[i]]==arr[i])
+     {
+        if(max<arr[i])
+        {
+             max=arr[i];
+        }
+     }
+    }
+    return max>0 ? max:-1;
+}
