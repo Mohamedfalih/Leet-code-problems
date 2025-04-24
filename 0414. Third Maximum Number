@@ -23,3 +23,22 @@ int thirdMax(int* nums, int numsSize) {
     }
     return nums[0];
 }
+
+
+          (OR)
+
+class Solution {
+public:
+    int thirdMax(vector<int>& nums)
+    {
+        set<int>distinct(nums.begin(),nums.end());
+        if(distinct.size()<3)
+        {
+            return *distinct.rbegin();
+        }    
+        distinct.erase(*distinct.rbegin());
+        distinct.erase(*distinct.rbegin());
+        return *distinct.rbegin();
+
+    }
+};
