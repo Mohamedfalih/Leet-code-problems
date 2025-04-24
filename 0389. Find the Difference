@@ -12,5 +12,5 @@ char findTheDifference(char* s, char* t)
         t++;
     }
 
-    return (T-S);
+    return (char)(T-S);  // (char) is optional
 }
