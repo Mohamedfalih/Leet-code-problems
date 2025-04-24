@@ -1,0 +1,16 @@
+char findTheDifference(char* s, char* t)
+{
+    int S=0,T=0;
+    while (*s)
+    {
+        S += *s;
+        s++;
+    }
+    while (*t)
+    {
+        T += *t;
+        t++;
+    }
+
+    return (char)(T-S);
+}
