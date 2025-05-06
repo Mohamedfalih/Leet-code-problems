@@ -1,0 +1,10 @@
+bool isSubsequence(char* s, char* t)
+{
+    int j=0;
+    for(int i=0;j<strlen(s) && i<strlen(t);i++)
+    {
+       if(s[j]==t[i])
+        j++;
+    }
+    return (j==strlen(s));
+}
