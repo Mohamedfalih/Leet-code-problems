@@ -1,0 +1,24 @@
+int maxLengthBetweenEqualCharacters(char* s)
+{
+    int firsts[256];
+    for (int i = 0; i < 256; i++) 
+        firsts[i] = -1;
+
+    int max = -1;
+
+    for (int i = 0; s[i] != '\0'; i++) 
+    {
+        if (firsts[s[i]] >= 0) 
+        {
+            int diff = i - firsts[s[i]] - 1;
+            if (diff > max) 
+                max = diff;
+        } 
+        else 
+        {
+            firsts[s[i]] = i;
+        }
+    }
+
+    return max;
+}
