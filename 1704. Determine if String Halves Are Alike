@@ -1,0 +1,22 @@
+bool isVowel(char c) 
+{
+    c = tolower(c);
+    return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
+}
+
+bool halvesAreAlike(char* s) 
+{
+    
+    int mid = strlen(s) / 2;
+    int l_count = 0, r_count = 0;
+
+    for (int i = 0; i < mid; i++)
+    {
+        if (isVowel(s[i])) 
+            l_count++;
+        if (isVowel(s[i + mid])) 
+            r_count++;
+    }
+
+    return l_count == r_count;
+}
