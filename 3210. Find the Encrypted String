@@ -1,0 +1,16 @@
+char* getEncryptedString(char* s, int k)
+{
+    char *res=malloc(101);
+    int n = strlen(s);
+    if (k%n==0) 
+    { 
+        return s;
+    }
+    for(int i=0;i<n;i++) 
+    {
+        int z=(k+i)%n;
+        res[i]=s[z];
+    }
+    res[n]=0;
+    return res;
+}
