@@ -1,0 +1,12 @@
+bool isBalanced(char* num)
+{
+    int Osum = 0, Esum = 0, len = strlen(num);
+    for (int i = 0; i < len; i++)
+    {
+        if (i % 2 == 0)
+            Esum = Esum + (num[i] - '0');
+        else
+            Osum = Osum + (num[i] - '0');
+    }
+    return Osum == Esum;
+}
