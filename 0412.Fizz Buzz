@@ -1,0 +1,39 @@
+char* numberToString(int num) {
+    char* str = (char*)malloc(12); // Enough for int
+    int len = 0, temp = num;
+
+    // Count digits
+    while (temp > 0) {
+        len++;
+        temp /= 10;
+    }
+    if (len == 0) len = 1;
+
+    str[len] = '\0';
+
+    while (len > 0) {
+        str[--len] = (num % 10) + '0';
+        num /= 10;
+    }
+
+    return str;
+}
+char** fizzBuzz(int n, int* returnSize) {
+    *returnSize = n;
+    char** answer = (char**)malloc(n * sizeof(char*));
+
+    for (int i = 1; i <= n; i++) {
+        if (i % 3 == 0 && i % 5 == 0) {
+            answer[i - 1] = (char*)malloc(9); // "FizzBuzz"
+            answer[i - 1] = "FizzBuzz";
+        } else if (i % 3 == 0) {
+            answer[i - 1] = "Fizz";
+        } else if (i % 5 == 0) {
+           answer[i - 1] = "Buzz";
+        } else {
+            answer[i - 1] = numberToString(i); // Convert number to string
+        }
+    }
+
+    return answer;
+}
