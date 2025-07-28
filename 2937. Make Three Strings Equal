@@ -1,3 +1,9 @@
+You are given three strings: s1, s2, and s3. In one operation you can choose one of these strings and delete its rightmost character. 
+Note that you cannot completely empty a string.
+Return the minimum number of operations required to make the strings equal. If it is impossible to make them equal, return -1.
+
+SOURCE CODE:
+
 #define min(a,b) (a<b?a:b)
 
 int findMinimumOperations(char* s1, char* s2, char* s3)
@@ -23,3 +29,14 @@ int findMinimumOperations(char* s1, char* s2, char* s3)
         return (l1-l)+(l2-l)+(l3-l);
     }
 }
+OUTPUT:
+
+Example 1:
+Input: s1 = "abc", s2 = "abb", s3 = "ab"
+Output: 2
+Explanation: Deleting the rightmost character from both s1 and s2 will result in three equal strings.
+
+Example 2:
+Input: s1 = "dac", s2 = "bac", s3 = "cac"
+Output: -1
+Explanation: Since the first letters of s1 and s2 differ, they cannot be made equal.
