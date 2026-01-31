@@ -3,25 +3,24 @@ A segment is defined to be a contiguous sequence of non-space characters.
 
 SOURCE CODE:
 
-int countSegments(char* s)
-{
-    int segment = 0, f = 0;
-    for(int i = 0; i < strlen(s); i++){
-        if(s[i] != ' ' && f == 0)
+class Solution {
+public:
+    int countSegments(string s)
+    {
+        int l = s.length();
+        int seg = 0;
+
+        for(int i=0 ; i < l ; i++)
         {
-            f = 1;
-            segment++;
-        }
-        else if(s[i] != ' ')
-        {
-            continue;
-        }
-        else{
-            f = 0;
-        }
+            if(s[i] != ' ' && (i==0 || s[i-1] == ' '))
+            {
+                seg++;
+            }
+        }    
+        return seg;
     }
-    return segment;
-}
+};
+
 OUTPUT:
 
 Example 1:
