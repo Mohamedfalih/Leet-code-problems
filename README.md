@@ -66,4 +66,12 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
