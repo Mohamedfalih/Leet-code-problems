@@ -54,6 +54,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0027-remove-element) |
 ## Two Pointers
@@ -61,4 +62,8 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0027-remove-element) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
