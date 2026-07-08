@@ -54,9 +54,11 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
