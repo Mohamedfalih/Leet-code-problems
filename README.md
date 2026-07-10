@@ -58,6 +58,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0136-single-number) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
 | ------- |
