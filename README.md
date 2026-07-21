@@ -78,6 +78,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0202-happy-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0507-perfect-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0507-perfect-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
