@@ -60,6 +60,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0136-single-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0414-third-maximum-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0414-third-maximum-number/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 | Problem Name | Difficulty |
