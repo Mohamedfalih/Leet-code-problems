@@ -65,6 +65,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0485-max-consecutive-ones](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -87,6 +88,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0771-jewels-and-stones](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -126,6 +128,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0771-jewels-and-stones](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -147,6 +150,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0383-ransom-note/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
