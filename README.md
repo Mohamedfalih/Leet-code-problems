@@ -63,6 +63,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0260-single-number-iii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0260-single-number-iii/) | Medium |
 | [0414-third-maximum-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -81,6 +82,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0202-happy-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0202-happy-number/) | Easy |
 | [0383-ransom-note](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0383-ransom-note/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0383-ransom-note](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0383-ransom-note/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0443-string-compression](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0443-string-compression/) | Medium |
+| [0890-find-and-replace-pattern](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
