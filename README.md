@@ -78,6 +78,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0202-happy-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0202-happy-number/) | Easy |
 | [0383-ransom-note](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0383-ransom-note/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -109,6 +110,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0383-ransom-note](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0383-ransom-note/) | Easy |
@@ -136,4 +138,8 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0383-ransom-note/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
