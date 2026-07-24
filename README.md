@@ -81,6 +81,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0189-rotate-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0202-happy-number/) | Easy |
 | [0443-string-compression](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0443-string-compression/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0383-ransom-note](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0383-ransom-note/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0443-string-compression](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0443-string-compression/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -167,5 +169,6 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
