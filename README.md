@@ -58,6 +58,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0011-container-with-most-water](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0136-single-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0137-single-number-ii/) | Medium |
@@ -128,6 +129,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0367-valid-perfect-square) |
