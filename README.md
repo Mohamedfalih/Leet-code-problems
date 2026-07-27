@@ -66,6 +66,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0414-third-maximum-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0704-binary-search/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -128,6 +129,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
