@@ -61,6 +61,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0136-single-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0260-single-number-iii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0260-single-number-iii/) | Medium |
 | [0414-third-maximum-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -123,6 +124,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -182,6 +185,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Greedy
