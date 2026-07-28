@@ -75,6 +75,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0890-find-and-replace-pattern](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0948-bag-of-tokens/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1089-duplicate-zeros/) | Easy |
@@ -172,6 +173,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0392-is-subsequence/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Memoization
@@ -219,4 +221,13 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
