@@ -251,6 +251,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -258,5 +259,6 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
