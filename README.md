@@ -102,6 +102,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0392-is-subsequence](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0948-bag-of-tokens/) | Medium |
@@ -249,4 +250,5 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
