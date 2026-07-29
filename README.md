@@ -96,6 +96,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0202-happy-number/) | Easy |
 | [0392-is-subsequence](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0392-is-subsequence/) | Easy |
@@ -110,6 +111,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0383-ransom-note/) | Easy |
@@ -243,4 +245,8 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
