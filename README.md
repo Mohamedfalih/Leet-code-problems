@@ -80,6 +80,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0704-binary-search](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -159,6 +160,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0209-minimum-size-subarray-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
