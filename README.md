@@ -74,6 +74,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0485-max-consecutive-ones](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0682-baseball-game](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0704-binary-search/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0881-boats-to-save-people/) | Medium |
@@ -272,4 +273,9 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0682-baseball-game](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0682-baseball-game/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
