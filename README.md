@@ -254,6 +254,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -263,6 +264,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -286,6 +288,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0503-next-greater-element-ii/) | Medium |
