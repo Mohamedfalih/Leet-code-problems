@@ -88,6 +88,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0948-bag-of-tokens/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -236,6 +237,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
