@@ -92,6 +92,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [1052-grumpy-bookstore-owner](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -137,6 +138,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0904-fruit-into-baskets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
