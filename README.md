@@ -141,6 +141,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [1207-unique-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -197,6 +198,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -249,6 +251,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
