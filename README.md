@@ -157,6 +157,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0507-perfect-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0507-perfect-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3099-harshad-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3099-harshad-number/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,4 +323,8 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0503-next-greater-element-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
