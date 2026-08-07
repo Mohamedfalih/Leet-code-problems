@@ -98,6 +98,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3527-find-the-most-common-response](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
@@ -327,4 +328,8 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
