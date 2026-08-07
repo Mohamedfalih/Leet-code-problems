@@ -154,6 +154,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0171-excel-sheet-column-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -178,6 +179,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0136-single-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0137-single-number-ii/) | Medium |
+| [0231-power-of-two](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0260-single-number-iii/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -302,6 +304,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
