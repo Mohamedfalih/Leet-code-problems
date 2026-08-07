@@ -61,6 +61,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0137-single-number-ii/) | Medium |
@@ -127,6 +128,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0205-isomorphic-strings/) | Easy |
@@ -331,5 +333,6 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
