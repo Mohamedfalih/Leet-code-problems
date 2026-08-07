@@ -198,6 +198,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0709-to-lower-case](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
