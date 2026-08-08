@@ -63,6 +63,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0053-maximum-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -311,6 +312,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -326,6 +328,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0739-daily-temperatures/) | Medium |
@@ -339,4 +342,8 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
