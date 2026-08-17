@@ -1,3 +1,5 @@
+//RECURSION
+
 class Solution {
 
     static void f(int left , int right , char[] s)
@@ -17,6 +19,8 @@ class Solution {
         f(0 , s.length - 1 , s);
     }
 }
+
+//TWO POINTERS
 
 class Solution {
     public void reverseString(char[] s)
