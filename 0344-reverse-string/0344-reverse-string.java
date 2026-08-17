@@ -17,3 +17,20 @@ class Solution {
         f(0 , s.length - 1 , s);
     }
 }
+
+class Solution {
+    public void reverseString(char[] s)
+    {
+        int r = s.length-1;
+        int f = 0;
+        while(f<r)
+        {
+            char t = s[f];
+            s[f] = s[r];
+            s[r] = t;
+
+            f++;
+            r--;
+        }
+    }
+}
