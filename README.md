@@ -117,6 +117,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0189-rotate-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0344-reverse-string](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -194,6 +195,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0168-excel-sheet-column-title](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0205-isomorphic-strings/) | Easy |
+| [0344-reverse-string](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
