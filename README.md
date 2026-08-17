@@ -62,6 +62,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0136-single-number) |
@@ -180,6 +181,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0231-power-of-two/) | Easy |
@@ -359,4 +361,8 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
