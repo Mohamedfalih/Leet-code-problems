@@ -371,6 +371,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0090-subsets-ii/) | Medium |
 ## Bracket Sequences
@@ -381,4 +382,5 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
