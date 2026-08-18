@@ -60,6 +60,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0027-remove-element](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0051-n-queens](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0078-subsets/) | Medium |
@@ -369,10 +370,15 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0051-n-queens](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0090-subsets-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0022-generate-parentheses/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
