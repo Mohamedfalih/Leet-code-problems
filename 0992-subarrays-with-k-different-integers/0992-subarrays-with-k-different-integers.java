@@ -22,10 +22,8 @@ class Solution {
                 }
                 start++;
             }
-            
-            count += end - start + 1;
 
-            System.out.println(count);
+            count += end - start + 1;
         }
 
         return count;
