@@ -204,6 +204,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0020-valid-parentheses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0205-isomorphic-strings/) | Easy |
@@ -232,6 +233,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0022-generate-parentheses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -386,6 +388,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0052-n-queens-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
