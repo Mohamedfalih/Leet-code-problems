@@ -114,6 +114,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -203,6 +204,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0125-valid-palindrome/) | Easy |
@@ -232,6 +234,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0053-maximum-subarray/) | Medium |
@@ -404,4 +407,8 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0052-n-queens-ii/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
