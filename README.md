@@ -215,6 +215,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0344-reverse-string](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0394-decode-string/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0443-string-compression/) | Medium |
@@ -342,6 +343,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0206-reverse-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0394-decode-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,6 +354,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0155-min-stack](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0682-baseball-game/) | Easy |
