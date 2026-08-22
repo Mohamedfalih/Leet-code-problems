@@ -310,6 +310,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,6 +321,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0155-min-stack](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -416,4 +418,8 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
