@@ -20,11 +20,15 @@ class Solution {
             return false;
         
         if(root.left == null && root.right == null)
-            return ( targetSum - root.val == 0 );
+            if( targetSum - root.val == 0 )
+                return true;
+            else
+                return false;
         
         boolean left = hasPathSum(root.left , targetSum - root.val);
         boolean right = hasPathSum(root.right , targetSum - root.val);
 
         return left || right;
+        
     }
 }
