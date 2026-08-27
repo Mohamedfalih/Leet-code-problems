@@ -26,7 +26,7 @@ class Solution {
 
         int center = root.val + left + right;
 
-        maxSum = Math.max(maxSum , center);
+        this.maxSum = Math.max(this.maxSum , center);
 
         return root.val + Math.max(left , right);
 
@@ -35,6 +35,6 @@ class Solution {
         
         dfs(root);
 
-        return maxSum;
+        return this.maxSum;
     }
 }
