@@ -410,6 +410,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0052-n-queens-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0090-subsets-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -435,6 +436,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -444,6 +446,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -454,6 +457,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
