@@ -302,6 +302,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0680-valid-palindrome-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0948-bag-of-tokens/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +310,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +453,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -465,6 +468,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -484,6 +488,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -505,4 +510,5 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
