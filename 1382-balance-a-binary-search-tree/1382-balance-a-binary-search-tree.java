@@ -25,32 +25,27 @@ class Solution {
 
     }
 
-    static TreeNode bst(int[] arr , int left , int right){
+    static TreeNode bst(List<Integer> list , int left , int right){
 
         if(left > right){
             return null;
         }
         int mid = (left+right) / 2 ;
 
-        TreeNode root = new TreeNode(arr[mid]);
+        TreeNode root = new TreeNode(list.get(mid));
 
-        root.left = bst(arr , left , mid-1);
-        root.right = bst(arr , mid+1 , right);
+        root.left = bst(list , left , mid-1);
+        root.right = bst(list , mid+1 , right);
 
         return root;
 
     }
     public TreeNode balanceBST(TreeNode root) {
         
-        List<Integer> list = new ArrayList<>();
+        ArrayList<Integer> list = new ArrayList<>();
         dfs(root , list);
 
-        int[] arr = new int[list.size()];
-        for(int i = 0 ; i < arr.length ; i++){
-            arr[i] = list.get(i);
-        }
-
-        return bst(arr , 0 , arr.length-1);
+        return bst(list , 0 , list.size()-1);
 
     }
 }
