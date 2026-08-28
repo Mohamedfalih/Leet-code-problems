@@ -101,6 +101,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0948-bag-of-tokens](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0948-bag-of-tokens/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -373,6 +374,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0682-baseball-game](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0739-daily-temperatures/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -387,6 +389,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0496-next-greater-element-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0739-daily-temperatures/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -456,6 +459,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -493,6 +497,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -517,5 +522,6 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
