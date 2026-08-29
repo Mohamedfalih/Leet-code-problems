@@ -475,6 +475,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -508,6 +509,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0112-path-sum/) | Easy |
+| [0547-number-of-provinces](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## DP on Trees
@@ -529,4 +531,12 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0938-range-sum-of-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
