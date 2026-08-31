@@ -103,6 +103,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0929-unique-email-addresses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0948-bag-of-tokens/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
@@ -405,6 +406,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0200-number-of-islands](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
@@ -526,6 +528,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0733-flood-fill](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0994-rotting-oranges/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
