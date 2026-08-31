@@ -497,6 +497,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0841-keys-and-rooms](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0841-keys-and-rooms/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -536,6 +537,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0797-all-paths-from-source-to-target](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -561,12 +563,14 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0200-number-of-islands](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0695-max-area-of-island/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
