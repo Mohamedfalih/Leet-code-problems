@@ -75,6 +75,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0152-maximum-product-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -401,6 +402,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0200-number-of-islands](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0733-flood-fill/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -477,6 +479,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0547-number-of-provinces/) | Medium |
@@ -516,6 +519,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0695-max-area-of-island/) | Medium |
@@ -544,6 +548,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0695-max-area-of-island/) | Medium |
 ## Graph Theory
