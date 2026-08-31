@@ -22,8 +22,8 @@ class Solution {
 
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
         
-        int org = image[sr][sc];
         boolean[][] visited = new boolean[image.length][image[0].length];
+        int org = image[sr][sc];
         dfs(sr , sc , image , visited , color , org);
 
         return image;
