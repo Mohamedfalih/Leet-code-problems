@@ -418,6 +418,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0743-network-delay-time](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0743-network-delay-time/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,6 +493,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0743-network-delay-time/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0841-keys-and-rooms/) | Medium |
@@ -533,6 +535,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0743-network-delay-time/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0841-keys-and-rooms/) | Medium |
@@ -568,6 +571,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -575,4 +579,12 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
