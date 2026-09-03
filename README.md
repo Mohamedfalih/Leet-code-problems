@@ -479,6 +479,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -503,6 +504,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0200-number-of-islands](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0463-island-perimeter](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0463-island-perimeter/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -531,6 +533,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -548,6 +551,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0112-path-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0463-island-perimeter/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0695-max-area-of-island/) | Medium |
@@ -570,6 +574,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
