@@ -121,6 +121,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [1652-defuse-the-bomb](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -330,6 +331,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0232-implement-queue-using-stacks](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0933-number-of-recent-calls/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +394,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0735-asteroid-collision/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
