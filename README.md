@@ -113,6 +113,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1470-shuffle-the-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
