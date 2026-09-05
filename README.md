@@ -121,6 +121,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [1584-min-cost-to-connect-all-points](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
@@ -245,6 +246,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Dynamic Programming
@@ -395,6 +397,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0735-asteroid-collision/) | Medium |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
