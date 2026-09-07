@@ -82,6 +82,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0238-product-of-array-except-self](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0260-single-number-iii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0463-island-perimeter](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -162,6 +163,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0141-linked-list-cycle](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0205-isomorphic-strings/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0496-next-greater-element-i/) | Easy |
@@ -274,6 +276,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0015-3sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0015-3sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -290,6 +293,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0383-ransom-note/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -327,6 +331,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0053-maximum-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Queue
@@ -432,6 +437,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0743-network-delay-time/) | Medium |
 | [1046-last-stone-weight](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1046-last-stone-weight/) | Easy |
@@ -439,6 +445,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -644,4 +651,8 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
