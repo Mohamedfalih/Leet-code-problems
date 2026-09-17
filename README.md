@@ -83,6 +83,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0260-single-number-iii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0260-single-number-iii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0463-island-perimeter](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -144,6 +145,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0202-happy-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0344-reverse-string/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0443-string-compression/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -164,6 +166,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0202-happy-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0496-next-greater-element-i/) | Easy |
@@ -206,6 +209,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -280,6 +284,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0015-3sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0015-3sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0905-sort-array-by-parity/) | Easy |
