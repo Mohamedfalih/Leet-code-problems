@@ -184,6 +184,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0189-rotate-array/) | Medium |
@@ -201,6 +202,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -657,4 +659,8 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
