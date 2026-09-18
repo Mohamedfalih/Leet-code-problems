@@ -72,6 +72,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0084-largest-rectangle-in-histogram](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -270,6 +271,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0022-generate-parentheses](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0152-maximum-product-subarray/) | Medium |
