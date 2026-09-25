@@ -202,6 +202,7 @@ Solve at least *one problem per day* to sharpen my coding skills and prepare for
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0507-perfect-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/0507-perfect-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [3099-harshad-number](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3099-harshad-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohamedfalih/Leet-code-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Binary Search
